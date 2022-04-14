@@ -1,3 +1,3 @@
 # TestProject
 
-Making some changes, adding words to my readme.
+Changing up what info is in the readme, and wanting to merge to main.
